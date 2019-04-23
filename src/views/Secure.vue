@@ -1,5 +1,5 @@
 <template>
-    <div id="about">
+    <div id="secure">
         <h1>Secure Area</h1>
         <p>
             This is a secure area
@@ -9,7 +9,7 @@
 
 <script>
     export default {
-        name: 'about',
+        name: 'secure',
         data() {
             return {};
         }
@@ -17,7 +17,7 @@
 </script>
 
 <style scoped>
-    #about {
+    #secure {
         width: 100%;
         background-color: lightslategray;
         border: 2px solid #083d52;
