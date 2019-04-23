@@ -1,4 +1,4 @@
-# esp-frontend
+# vue-rest-api
 
 ## Project setup
 ```
